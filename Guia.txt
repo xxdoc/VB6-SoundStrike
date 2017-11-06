@@ -1,0 +1,75 @@
+123456789012345678901234567890123456789012345678901234567890123456
+              **************************************
+              * Guía del usuario para SOUND-STRIKE *
+              **************************************
+************
+* OBJETIVO *
+************
+   El objetivo de este programa es poder reproducir varios sonidos mientras se está jugando al Counter Strike.
+
+
+******************
+* FUNCIONAMIENTO *
+******************
+   Básicamente, lo que realiza este programa es cambiar el nombre de los diferentes sonidos que se agregen a la lista de reproducción.
+   El programa detecta la pulsación de la tecla de acción, y automáticamente renombra el siguiente sonido de la lista por el preestablecido por el Counter-Strike, a saber, "voice_input.wav".
+
+
+***************
+* MODO DE USO *
+***************
+   ***************************
+   * SELECCIÓN DE DIRECTORIO *
+   ***************************
+      El la parte derecha de la ventana principal, hay un explorador de carpetas y ficheros. Mediante él se seleccionará el directorio donde se encuentren los sonidos a reproducir.
+      Los sonidos deben estar localizados en el mismo directorio donde se encuentre el "HL.EXE" o el "HL2.EXE". Esto es un requisito fundamental para que los sonidos se reproduzcan desde el juego.
+
+   ******************************
+   * AGREGAR / ELIMINAR SONIDOS *
+   ******************************
+      A partir del directorio donde se encuentren los sonidos, se podrán añadir tantos como se deseen a la lista de reproducción localizada a la izquierda de la aplicación.
+      Los sonidos se añaden haciendo doble clic sobre ellos, o arrastrándolos hasta la lista.
+      Para eliminar sonidos de la lista, bastará con hacer doble clic sobre ellos.
+
+   *******************
+   * TECLA DE ACCIÓN *
+   *******************
+      Se deberá asignar una tecla de acción al programa, es decir, una tecla que, al pulsarla, cambie de sonido en la lista de reproducción. Bastará con situar el cursor sobre el campo de texto reservado para la tecla de acción y pulsar la tecla deseada.
+      En realidad, el programa no reproduce ningún sonido. Simplemente renombra el fichero correspondiente con el nombre "voice_input.wav".
+
+   ************
+   * ON / OFF *
+   ************
+      Una vez realizados estos tres pasos, se podrá pulsar el botón "ON" para activar el funcionamiento del programa. Al hacerlo, tanto el explorador, como la lista y el resto de campos de texto se deshabilitarán.
+      Hasta ese momento, la captura de la tecla de acción estará desactivada. Una vez pulsado "ON" y siempre que se pulse la tecla de acción el programa avanzará en la lista de reproducción.
+      Al pulsar el botón "OFF" la captura de la tecla de acción finalizará, y se volverá a habilitar la lista para su modificación, si se desea, así como el explorador y el campo de la tecla de acción.
+
+
+***********************************
+* DUDAS / CONSULTAS / SUGERENCIAS *
+***********************************
+   Para cualquier duda/consulta/sugerencia y/o bugs (esperemos que no muchos) relacionados con el programa, escribir a:
+                      x_dvd_x@hotmail.com
+
+   También podéis dejar un comentario en el foro de:
+                      www.g3t-gaming.com
+
+
+*******************
+* AGRADECIMIENTOS *
+*******************
+   Quisiera agradecer a todos los miembros de "g3t" su entusiasmo y su compañerismo, sobre todo por su labor de "beta-testers".
+   En especial a:
+      [ñ] : por su pasión por el esfuerzo, sobre todo en Linux.
+      Peluche de Combate : por su sinceridad tras sus palabrerías.
+      Flus++ : por ser el mejor aZmin que pudiéramos tener.
+      r0cak3t : por usar siempre la Glock... aunque yo la odie.
+      Funk : por templar los ánimos y coordinar los "dineros".
+
+      Y al resto de personajes y personajillos que aparece por el servidor, como por ejemplo:
+      McRabo, Maikelito, Darkman, Aaron, Pumuky, Tanoka, FJavi, y tantos otros que pupulan por los bits del servidor.
+
+***************
+* By  [ DVD ] *
+***************
+   Programado en As Pontes (A Coruña) en Mayo de 2005.
